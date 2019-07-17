@@ -97,7 +97,7 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-   color: #fecd8a !important;
+   color: #C6B9A7 !important;
     font-size: 14px;
    background: transparent
 }
@@ -138,7 +138,7 @@ ts-message .mention {
 }
 .c-member_slug--link {
       background: transparent;
-   color: #fcc973!important;
+   color: #C6B9A7!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
@@ -876,10 +876,10 @@ color:#999 !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
-    color: #ffb088 !important;
+    color: #91796D !important;
 }
 .c-message__sender{
-color:#a4d677 !important
+color:#809E65 !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;

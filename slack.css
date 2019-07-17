@@ -3,7 +3,7 @@
 body {
    font-family: 'Bad Script' !important;
     text-rendering: optimizeLegibility !important;
-    word-spacing: -1px;
+   /* word-spacing: -1px;*/
     -webkit-font-smoothing: auto;
    /*color: #999 !important;*/
 }

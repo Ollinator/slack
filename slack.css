@@ -6,17 +6,13 @@ body {
     text-rendering: optimizeLegibility !important;
    /* word-spacing: -1px;*/
     -webkit-font-smoothing: auto;
-   color: #F00 !important;
+   color: #999 !important;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family: Verdana !important;
-   font-weight: lighter !important;
-   color: #0F0 !important;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
   font-family: Verdana !important;
-   font-weight: lighter !important;
-   color: #00F !important;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
@@ -75,7 +71,7 @@ div.c-virtual_list__scroll_container {
 }
 .c-dialog__header {
     background: #222222!important;
-    color: white;
+    color: #999;
 }
 .c-dialog__footer {
     background: #222222!important;
@@ -84,7 +80,7 @@ div.c-message:hover {
     background-color: #222222 !important;
 }
 .c-dialog__title {
-    color: white !important;
+    color: #999 !important;
 }
 a {
     color: #36D4F6!important;
@@ -171,13 +167,13 @@ ts-message .mention {
     width: 100%;
     background: #31353d !important;
     border: 1px solid #31353d !important;
-    color: white !important;
+    color: #999 !important;
 }
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,
 .upload_in_threads.has_focus .inline_message_input_container .inline_file_upload {
     background: #008952 !important;
     border: 2px solid #008952 !important;
-    color: white !important;
+    color: #999 !important;
 }
 #primary_file_button:hover {
     border: 2px solid #006039 !important;
@@ -207,7 +203,7 @@ ts-message .mention {
 }
 .p-share_dialog_message_input {
     background: black !important;
-    color: white !important;
+    color: #999 !important;
 }
 .p-file_upload_dialog__preview {
     background: transparent !important;
@@ -674,13 +670,13 @@ a.file_download_link:hover {
 #threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload {
     background: #393939 !important;
     width: 40px;
-    color: white;
+    color: #999;
 }
 #threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload.active .upload_plus_icon,
 #threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload.focus-ring .upload_plus_icon,
 #threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload:focus .upload_plus_icon,
 #threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload:hover .upload_plus_icon {
-    color: white !important;
+    color: #999 !important;
 }
 .supports_custom_scrollbar .reply_input_container .ql-editor,
 .supports_custom_scrollbar .reply_input_container .ql-placeholder {
@@ -819,7 +815,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
     .c-message__editor__input--legacy.focus {
         border-color: transparent;
         background: #585858;
-        color: white;
+        color: #999;
         border-radius: 3px;
     }
     .c-menu_item__header, .c-menu_item__header{
@@ -2130,7 +2126,7 @@ ts-message .internal_member_link:hover {
     background: black;
 }
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
-    color: white;
+    color: #999;
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
@@ -2148,7 +2144,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     flex: 1;
     padding-left: 43px;
     z-index: 200;
-    color: white;}
+    color: #999;}
     .c-member_slug--link{
     font-size:14.6px !important}
     .c-texty_autocomplete {
@@ -2158,20 +2154,20 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-classic_nav__drag {
     -webkit-app-region: drag;
     background: #222222;
-    color:white}
+    color:#999}
     .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
     background:transparent !important}
     .p-classic_nav__model__title__info__members, .p-classic_nav__model__title__info__pins, .p-classic_nav__model__title__info__presence {
     display: flex;
     align-items: baseline;
-    color: white;}
+    color: #999;}
     .p-classic_nav__model__title__info__topic__text {
     position: relative;
     display: block;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
-    color: white;}
+    color: #999;}
     .p-classic_nav__model__title__info__topic--focus-within .p-classic_nav__model__title__info__topic__text:before, .p-classic_nav__model__title__info__topic:hover .p-classic_nav__model__title__info__topic__text:before{
         background: #494949 !important;}
         .p-classic_nav__model__title__info__topic:hover .p-classic_nav__model__title__info__topic__edit, .p-classic_nav__model__title__info__topic__edit.c-button--focus-visible {

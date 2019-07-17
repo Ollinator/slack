@@ -36,7 +36,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #ffb088 !important;}
+    color: #999 !important;}
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
     z-index: 0;
@@ -411,12 +411,12 @@ p-search_filter__date:first-child {
     color: #999;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #a4d677 !important;
+    color: #749654 !important;
     font-weight: 700 !important;
     font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-    color:  #a4d677 !important;
+    color:  #749654 !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }

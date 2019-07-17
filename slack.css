@@ -2,6 +2,7 @@
 
 body {
    font-family: Verdana !important;
+   font-weight: lighter !important;
     text-rendering: optimizeLegibility !important;
    /* word-spacing: -1px;*/
     -webkit-font-smoothing: auto;
@@ -9,9 +10,13 @@ body {
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family: Verdana !important;
+   font-weight: lighter !important;
+   color: #999 !important;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
   font-family: Verdana !important;
+   font-weight: lighter !important;
+   color: #999 !important;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;

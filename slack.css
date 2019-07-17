@@ -814,7 +814,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
     border-radius: 4px;}
     .c-message__editor__input--legacy.focus {
         border-color: transparent;
-        background: #585858;
+        background: #333;
         color: #999;
         border-radius: 3px;
     }

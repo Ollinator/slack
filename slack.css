@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Bad+Script|Rajdhani');
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Rajdhani&display=swap');
 
 body {
    font-family: 'Bad Script' !important;
     text-rendering: optimizeLegibility !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
-   color: grey;
+   color: grey !important;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family:  !important;

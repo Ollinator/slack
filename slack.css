@@ -5,7 +5,7 @@ body {
     text-rendering: optimizeLegibility !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
-   color: #999 !important;
+   color: #999;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family:  !important;

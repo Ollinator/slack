@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bad+Script|Rajdhani&display=swap');
 
 body {
-   font-family: 'Bad Script' !important;
+   font-family: Tahoma !important;
     text-rendering: optimizeLegibility !important;
    /* word-spacing: -1px;*/
     -webkit-font-smoothing: auto;
